@@ -1,9 +1,9 @@
-# KKundanika-Supply-Chain-Data-Analysis-UNP-Project
+# KKundanika-Supply-Chain-Data-Analysis-UNP-Project-Power BI
 
 #UNP POWER BI Project Supply Chain Data
 
 
-https://drive.google.com/drive/folders/1f92elgx2Ny_rv3ypiZbDGX28bHOc97LA
+https://drive.google.com/drive/folders/1f92elgx2Ny_rv3ypiZbDGX28bHOc97LA?q=sharedwith:public%20parent:1f92elgx2Ny_rv3ypiZbDGX28bHOc97LA
 
 
 This analysis is all about Supply chain data which mainly deals with order management and the delivery of products to the end consumers. This analysis provides a deeper insights into the supply chain data, 
