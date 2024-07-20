@@ -3,6 +3,11 @@
 #UNP POWER BI Project Supply Chain Data
 
 
+Dashboard Pdf Link:
+https://drive.google.com/drive/folders/1f92elgx2Ny_rv3ypiZbDGX28bHOc97LA
+
+
+Dashboard Pbix link:
 https://drive.google.com/drive/folders/1f92elgx2Ny_rv3ypiZbDGX28bHOc97LA
 
 
