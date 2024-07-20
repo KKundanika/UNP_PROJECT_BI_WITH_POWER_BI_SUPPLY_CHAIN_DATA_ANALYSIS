@@ -4,11 +4,11 @@
 
 
 Dashboard Pdf Link:
-https://drive.google.com/drive/folders/1f92elgx2Ny_rv3ypiZbDGX28bHOc97LA
+https://drive.google.com/file/d/1v03XPhwBrCByL2eoetjPAItGWpJS3VKI/view?usp=sharing
 
 
 Dashboard Pbix link:
-https://drive.google.com/drive/folders/1f92elgx2Ny_rv3ypiZbDGX28bHOc97LA
+https://drive.google.com/file/d/14-h5vERiAPGbdKEluYWdIzbd8HxbaZYU/view?usp=sharing
 
 
 This analysis is all about Supply chain data which mainly deals with order management and the delivery of products to the end consumers. This analysis provides a deeper insights into the supply chain data, 
